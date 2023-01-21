@@ -42,6 +42,7 @@ let d = "150";
 const anything = c * d;
 console.log(anything);
 
+
 let e = "30";
 let f = "7";
 const ask = e % f;
